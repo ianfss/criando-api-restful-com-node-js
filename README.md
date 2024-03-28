@@ -8,5 +8,5 @@
 # Business rules
 
 - [x] The transaction could be of credit, which will sum on total value, or debit, which will subtract
-- [ ] Should be possible to identify the user of each request
-- [ ] The user only can view the transactions they created
+- [x] Should be possible to identify the user of each request
+- [x] The user only can view the transactions they created
